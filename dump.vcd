@@ -1,0 +1,93 @@
+$date
+Wed Jul  2 15:36:24 2025
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ns
+$end
+
+$scope module mux_2x1_tb $end
+$var wire 1 ! y $end
+$var reg 1 " i0 $end
+$var reg 1 # i1 $end
+$var reg 1 $ s $end
+
+$scope module dut $end
+$var wire 1 % i0 $end
+$var wire 1 & i1 $end
+$var wire 1 ' s $end
+$var wire 1 ! y $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+1!
+0"
+1#
+1$
+0%
+1&
+1'
+$end
+#10
+1"
+1%
+#20
+0#
+0&
+0!
+#50
+0"
+1#
+0$
+0'
+1&
+0%
+#60
+1"
+1%
+1!
+#70
+0#
+0&
+#80
+0"
+1#
+1&
+0%
+0!
+#90
+1"
+1$
+1'
+1%
+1!
+#100
+0#
+0$
+0'
+0&
+#110
+0"
+1$
+1'
+0%
+0!
+#120
+1#
+1&
+1!
+#130
+1"
+1%
+#140
+0"
+0#
+0&
+0%
+0!
+#150
